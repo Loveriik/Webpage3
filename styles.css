@@ -342,11 +342,35 @@
     }
 
     .header {
-        min-height: 1350px;
+        min-height: 1120px;
     }
     
     .main-container {
         padding: 60px 10% 99px 10%;
     }
+    
+    .section-description {
+        padding:20px 30px;
+    }
 
+    .final {
+        padding:20px 10%;
+    }
+
+    .navigation {
+        margin-bottom:40px;
+    }
+
+    .white-section-container {
+        padding: 30px 10%;
+    }
+
+    .white-section-h2 {
+        padding-bottom:30px;
+    }
+
+    .cell-cont-caption {
+        text-align: center;
+        font-size:1.3rem;
+    }
 }
